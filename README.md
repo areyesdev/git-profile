@@ -6,7 +6,3 @@ Utilizando Git por primera vez
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-
-## Backend Frameworks
-
--**Backend**: [Nest](https://nestjs.com/)
